@@ -17,7 +17,7 @@ const owners = [
     },
 
     {
-        "id": "",
+        "id": "857965955342663730",
         "post": "Owner",
         "GHURL": "https://github.com/Biomatikk",
     }
