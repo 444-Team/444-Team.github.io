@@ -9,10 +9,17 @@ you can use this api but if you need to create custome api check:
 const API = "https://discord-web-api.glitch.me/discord/user/";
 
 const owners = [
+
     {
         "id": "807991177735307304",
         "post": "Owner",
         "GHURL": "https://github.com/Yumeko-Dev",
+    },
+
+    {
+        "id": "",
+        "post": "Owner",
+        "GHURL": "https://github.com/Biomatikk",
     }
 
 ]
